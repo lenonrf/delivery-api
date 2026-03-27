@@ -1,6 +1,6 @@
 # DELIVERY API - DASHER PAYOUT CALCULATION
 
-API REST para calcular pagamentos de entregadores (dashers) baseado em entregas realizadas. Projeto desenvolvido como prática para entrevistas técnicas no estilo DoorDash/Uber Eats.
+API REST para calcular pagamentos de entregadores (dashers) baseado em entregas realizadas.
 
 ---
 
